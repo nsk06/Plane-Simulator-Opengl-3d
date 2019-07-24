@@ -11,5 +11,5 @@ cmake.. && make all
 run the command:
 ./graphics_asgn1
 ### Features
- See [report.pdf](https://github.com/nsk06/Jetpack-Joyride-Clone-Opengl-/blob/master/report.pdf) for features and details
+ See [report.pdf](https://github.com/nsk06/Plane-Simulator-Opengl-3d/blob/master/README.pdf) for features and details
 
