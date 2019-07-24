@@ -1,0 +1,3 @@
+/home/nsk06/Documents/graphics/Assignment2/build/CMakeFiles/rebuild_cache.dir
+/home/nsk06/Documents/graphics/Assignment2/build/CMakeFiles/graphics_asgn1.dir
+/home/nsk06/Documents/graphics/Assignment2/build/CMakeFiles/edit_cache.dir
